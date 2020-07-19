@@ -1,0 +1,7 @@
+{
+  "name": "Get Palette",
+  "api": "1.0.0",
+  "main": "get-palette.main.js",
+  "ui": "get-palette.ui.html",
+  "id": "866200342776340994"
+}
